@@ -4,7 +4,7 @@ setup(
     name='console-bot',
     version='1',
     description='console-bot',
-    url='',
+    url='https://github.com/MONSMIN/HW_Console-bot.git',
     author='Dmytro Teplinskiy',
     author_email='d.v.teplinskiy@gmail.com',
     license='MIT',
